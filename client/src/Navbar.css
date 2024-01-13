@@ -1,0 +1,86 @@
+.barss {
+  display: flex;
+  list-style: none;
+  text-align: center;
+  width: 70vw;
+  justify-content: flex-end;
+  margin-right: 5rem;
+}
+
+.btnss {
+  border: none;
+  background: transparent;
+  padding: 6px 16px;
+  font-size: 1.1rem;
+  color: aliceblue;
+  background: rgb(0, 212, 212);
+  border-radius: 5px;
+  margin-right: 20px;
+}
+.btnss1 {
+  border: none;
+  background: transparent;
+  padding: 6px 16px;
+  font-size: 1.1rem;
+  color: aliceblue;
+  background: rgb(184, 13, 236);
+  border-radius: 5px;
+}
+.nav-link {
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 1.1rem;
+  margin-right: 2rem;
+}
+.forms {
+  width: 70vh;
+  margin: 4rem auto;
+}
+.img {
+  background-image: url("./images/image5.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 10px;
+  height: 130vh;
+}
+.img1 {
+  background-image: url("./images/image8.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 10px;
+
+  height: 110vh;
+}
+.img2 {
+  background-image: url("./images/image9.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 10px;
+
+  height: 150vh;
+}
+.imgOrder {
+  background-image: url("./images/orderImg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 10px;
+
+  height: 110vh;
+}
+.btnss {
+  border: none;
+  background: transparent;
+  padding: 6px 16px;
+  font-size: 1.1rem;
+  color: aliceblue;
+  background: rgb(0, 212, 212);
+  border-radius: 5px;
+  margin-right: 20px;
+}
+.header {
+  margin-top: 8%;
+}
+
+.ab {
+  color: rgb(255, 213, 0);
+}

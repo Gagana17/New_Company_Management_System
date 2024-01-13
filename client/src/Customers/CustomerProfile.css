@@ -1,0 +1,65 @@
+.mainDiv::before {
+  background-image: url("https://images.unsplash.com/photo-1596040033229-a9821ebd058d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=50");
+  opacity: 0.5;
+  height: 100vh;
+  width: 100vw;
+}
+.App {
+  text-align: center;
+}
+.greeting {
+  text-align: center;
+  border-radius: 1vh;
+}
+
+#addsupplier {
+  background-color: #ff6d00;
+  color: black;
+  border-color: #ff6d00;
+}
+#generateReportBtn {
+  background-color: #e9d758;
+  color: black;
+  border-color: #e9d758;
+}
+#supplierListBtn {
+  background-color: #01baef;
+  color: black;
+  border-color: #01baef;
+  width: 146px;
+}
+
+#informationCard {
+  position: relative;
+  width: 80%;
+  height: fit-content;
+  margin: auto auto;
+  top: 0px;
+  background-color: #d9d9d9;
+  margin-top: 1rem;
+
+}
+
+.profileContent {
+  text-align: center;
+}
+
+.footerCard {
+  width: 80%;
+  margin: auto auto;
+
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+#insideInfo {
+  position: relative;
+  width: 30%;
+  
+}
+#insideInfo1 {
+  position: relative;
+  width: 70%;
+  
+}

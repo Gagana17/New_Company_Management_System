@@ -1,0 +1,25 @@
+.container1 {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  max-width: 500px;
+  width: 90%;
+  margin: auto;
+  margin-top: 1rem;
+}
+.container1 > form {
+  width: 150%;
+
+  border: 0px solid #000000;
+  padding: 20px;
+  border-radius: 6px;
+  background: #150505ef;
+}
+
+pre {
+  width: 50%;
+  color: #fff;
+  font-size: larger;
+}

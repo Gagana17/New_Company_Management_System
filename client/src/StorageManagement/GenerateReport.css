@@ -1,0 +1,52 @@
+.generate-reports-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.generate-reports-title {
+  font-size: 32px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.generate-reports-description {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.generate-reports-options {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.generate-reports-option {
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+}
+
+.generate-reports-option-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.generate-reports-option-description {
+  margin-bottom: 20px;
+}
+
+.generate-reports-option-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.generate-reports-option-button:hover {
+  background-color: #0056b3;
+}

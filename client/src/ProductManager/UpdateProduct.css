@@ -1,0 +1,70 @@
+.updateProductForm {
+  background-color: #dfc3c3;
+}
+
+.updateProductForm {
+  margin: 20px auto;
+  max-width: 600px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.updateProductForm h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.updateProductForm label {
+  font-weight: bold;
+}
+
+.updateProductForm input,
+.updateProductForm textarea {
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.updateProductForm textarea {
+  height: 100px;
+}
+
+.updateProductForm button[type="submit"] {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+
+.updateProductForm button[type="submit"]:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+.updateProductForm .form-group {
+  margin-bottom: 30px;
+}
+
+.updateProductForm .form-control:focus {
+  box-shadow: none;
+  border-color: #007bff;
+}
+
+.updateProductForm .imagePreview {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.updateProductForm .imagePreview img {
+  max-height: 200px;
+  max-width: 200px;
+  object-fit: contain;
+}

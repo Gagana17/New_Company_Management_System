@@ -1,0 +1,49 @@
+.h5 {
+  margin-left: 10rem;
+}
+.information {
+  width: fit-content;
+}
+#backBtn {
+  position: relative;
+  margin-left: auto;
+}
+#generateReportBtn {
+  background-color: #f6cc44;
+  color: black;
+  border-color: #f6cc44;
+  width: fit-content;
+}
+.Search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  width: 50%;
+  height: 38px;
+}
+.btnsAndSearch {
+  margin-bottom: 1rem;
+}
+/* .btnDiv{ */
+/* position: absolute; */
+/* margin-left: 65%; */
+/* margin-right: auto; */
+/* margin-top: -10%; */
+/* width: 60%; */
+/* } */
+.backB {
+  /* align-items: right; */
+  text-align: right;
+}
+#addsupplier {
+  width: 146px;
+  margin-left: 1rem;
+}
+#buttonHolder {
+  display: flex;
+  position: relative;
+}
